@@ -27,6 +27,7 @@
     "domhandler": "^2.3.0",
     "domutils": "^1.5.1",
     "express": "^4.11.2",
+    "form-data": "^0.2.0",
     "prompt": "^0.2.14",
     "request": "^2.53.0",
     "yql": "^1.0.2"
